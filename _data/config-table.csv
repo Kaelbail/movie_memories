@@ -1,5 +1,8 @@
 field,display_name
 title,Title
-date,Date
+date,Date of Viewing
 description,Description
-subject,Subjects
+subject,Theater
+rating,Rating
+genre(s),Genre(s)
+creator,Director
