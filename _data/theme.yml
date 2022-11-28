@@ -65,7 +65,7 @@ metadata-facets-fields: "subject,creator,format"
 ##########
 # ABOUT PAGE
 #
-about-featured-image: txt027.jpg
+about-featured-image: txt027
 
 ##########
 # ADVANCED OPTIONS
