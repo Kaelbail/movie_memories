@@ -8,9 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="banner" %}
+{% include feature/jumbotron.html objectid="banner/objects/banner.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Potential Uses;Technical Credits" %}
+{% include feature/nav-menu.html sections="About the Collection;Potential Uses" %}
 
 ## About the Collection
 
@@ -19,9 +19,3 @@ This collection consists of 28 movie ticket stubs collected over the span of abo
 ## Potential Users
 
 Aside from those who enjoy ticket collections for the novelty and unique aspects of the items, this particular collection may be of use to economists who study cost trends over time as they apply to leisurely expenditures such as movie tickets. The hope is that this collection will continue to grow with time and may attract a very diverse user base including scholars, researchers, entrepreneurs, business scholars, and the general public. This collection would make for an interesting comparison of theaters in Indiana since almost all of the movies took place somewhere in the state. There may even be potential for a collection like this to benefit someone studying the materials used in printing tickets to see the effects of time on the visibility of the ink since they were all stored in same place, under the same conditions, and yet some deteriorated much faster than others.
-
-## Technical Credits - Collection Builder
-
-" This digital collection is built with CollectionBuilder, an open source framework for creating digital collection and exhibit websites that is developed by faculty librarians at the University of Idaho Library following the Lib-Static methodology.
-
-The site started from the CollectionBuilder-GH template which utilizes the static website generator Jekyll and GitHub Pages to build and host digital collections and exhibits. " (https://github.com/CollectionBuilder/collectionbuilder-gh)
