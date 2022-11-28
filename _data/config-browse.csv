@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
-rating,Rating,,true
-location,,true
-genre(s),Genre(s),,true
+rating,Rating,true,,Rating
+location,,true,,hidden,Location
+genre(s),Genre(s),true,,Genre
