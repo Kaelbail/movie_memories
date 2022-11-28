@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="txt001" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Potential Uses" %}
+{% include feature/nav-menu.html sections="About the Collection;Potential Users" %}
 
 ## About the Collection
 
