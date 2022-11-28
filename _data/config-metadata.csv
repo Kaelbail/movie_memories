@@ -1,9 +1,12 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
+title,Movie Title,
+creator,Director,
+date,Date of Viewing,
+rating,Rating,true
+genre(s),Genre(s),true
+item,Ticket Price,
 description,Description,
-subject,Subjects,true
+subject,Theater,true
 location,Location
 latitude,Latitude
 longitude,Longitude
