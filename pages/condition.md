@@ -18,13 +18,13 @@ When keeping notes on a particular movie ticket, avoid writing directly on the t
 
 When assessing the conditions of the movie tickets in this collection, it is important to define what constitutes each condition. Unfortunately, the organization which is most authentic and trusted at determining the condition of tickets is the Professional Sports Authenticator (PSA), and they do not accept movie tickets. Their system of condition grading may be adapted, but only very loosely since ticket type greatly effects the ways in which it degrades. In the case of this collection, I have chosen to grade their condition according to my own system:    
 
-Fine: Ticket is in mint condition with no scuffing, foxing, rips or tears, fading, or marks of any kind. All of the text is clearly visible. No dicoloration. 
+-Fine: Ticket is in mint condition with no scuffing, foxing, rips or tears, fading, or marks of any kind. All of the text is clearly visible. No dicoloration. 
 
-Good: Ticket shows minimal signs of fading, folding, foxing, or marks. Most of the text is clearly visible and there is some discoloration. 
+-Good: Ticket shows minimal signs of fading, folding, foxing, or marks. Most of the text is clearly visible and there is some discoloration. 
 
-Fair: Ticket has clear creases from folding. Tears and rips are present, but text is still visible. Fading has affected some or most of the text, but it is still readable with effort. Discoloration has affected the majority or entirety of the ticket.
+-Fair: Ticket has clear creases from folding. Tears and rips are present, but text is still visible. Fading has affected some or most of the text, but it is still readable with effort. Discoloration has affected the majority or entirety of the ticket.
 
-Poor: Ticket is ripped or torn with text missing. Discoloration and fading makes the text unreadable in most places.  
+-Poor: Ticket is ripped or torn with text missing. Discoloration and fading makes the text unreadable in most places.  
 
 There are examples of ticket stub conditions within this collection included in the next section.
 
