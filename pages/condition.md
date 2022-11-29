@@ -35,11 +35,6 @@ The following two ticket examples originate from the Regal UA Galaxy 14 theater 
 {% include feature/card.html header="Good" text="There is very slight fading of the text and very minimal folding or creasing. No rips or tears, except for the bottom edge where the edge is no longer smooth." objectid="txt020" width="25" centered=true %}
 {% include feature/card.html header="Fair" text="This ticket includes more severe fading with some letters and number nearly completely gone. There is also some foxing and discoloration, but it does not obscure any text. Slight creasing and rough edges, but no tears or rips." objectid="txt021" width="25" centered=true %}
 
-The final two ticket examples below provide 
-
-{% include feature/card.html header="Good" text="The card features an image from the collection as a cap" objectid="demo004" width="25" centered=true %}
-{% include feature/card.html header="Fair" text="The card features an image from the collection as a cap" objectid="demo004" width="25" centered=true %}
-
 ## Research Implications
 
-
+Movie ticket collections are gaining traction as a popular way of documenting pop culture trends and nostalgic memories. Movie ticket stubs technically fall under the umbrella of epherema, which essentially means they are only useful for a short period of time and are not meant to last long-term. Similar to other types of popular ephemera items like post carsd, printed advertisements, and posters, movie ticket stubs are typcially kept for personal reasons, not for research purposes. This does not discount them, however, from holding historical value as time goes by. Historical value can be found in the economic implications of ticket price fluctuation over time and across various locations. Students of archival and preservation studies may find value in the paper quality of these tickets and the comparison aspect that is available in a collection like this. For instance, a scholar, economist, entrepreneur, or any other interested individuals, may compare the ticket paper quality between AMC theaters and Regal UA Galaxy theaters with the contextual information of time and place included on the item, which may provide a more holistic assessment. There may also be the potential for research on popular film genres during certain time frames. For instance, superhero movies made a distinct resurgence in popularity over the past ten years, or so, and movie tickets are a unique and effective way to track such a trend.
