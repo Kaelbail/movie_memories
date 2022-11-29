@@ -4,6 +4,6 @@ creator,Director,,hidden,
 rating,Rating,true,,Rating
 location,Location,true,,Location
 genre(s),Genre(s),true,,Genre
-description,Description,true,,Description
-item,Price of ticket,true,,Price
+description,Description,,hidden,
+item,Price of ticket,,hidden,
 subject,Theater,true,,Theater
